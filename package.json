@@ -39,7 +39,7 @@
     "pug": "^2.0.0-beta11",
     "request": "^2.81.0",
     "standard": "^10.0.0",
-    "tap": "^10.3.0"
+    "tap": "^10.6.0"
   },
   "standard": {
     "ignore": [
